@@ -54,3 +54,7 @@ This command does the following:
   - Automatically removes the container after it stops, ensuring it doesn’t take up unnecessary space on your system.
 
 Docker Best practices [Link](https://docs.docker.com/build/building/best-practices/)
+
+## Other commands
+- Check what is running on a specific port
+`sudo lsof -i:<port_number>`
