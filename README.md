@@ -12,5 +12,5 @@
 
 
 ### Essential documents
+- Machine Learning Zoomcamp [Repo link](https://github.com/DataTalksClub/machine-learning-zoomcamp)
 - Learnings from ML Zoomcamp [Doc link](https://docs.google.com/document/d/14knEaMPLLix-U3F4FSXkuZwH9IY9Prqt6MHWq1SUT14/edit#heading=h.j0re2fkeha6)
-
